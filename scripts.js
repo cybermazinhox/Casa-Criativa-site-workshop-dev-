@@ -1,0 +1,24 @@
+function onoff(){
+
+
+    document
+    .querySelector("#modal")
+    .classList
+    .toggle("hide")
+
+    document
+        .querySelector("body")
+        .classList
+        .toggle("hideScroll")
+
+
+        document
+            .querySelector("body")
+            .classList
+            .toggle("addScroll")
+
+
+
+
+}
+
